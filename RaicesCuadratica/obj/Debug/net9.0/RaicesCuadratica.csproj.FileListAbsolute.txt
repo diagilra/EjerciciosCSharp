@@ -1,0 +1,14 @@
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\bin\Debug\net9.0\RaicesCuadratica.exe
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\bin\Debug\net9.0\RaicesCuadratica.deps.json
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\bin\Debug\net9.0\RaicesCuadratica.runtimeconfig.json
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\bin\Debug\net9.0\RaicesCuadratica.dll
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\bin\Debug\net9.0\RaicesCuadratica.pdb
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\RaicesCuadratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\RaicesCuadratica.AssemblyInfoInputs.cache
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\RaicesCuadratica.AssemblyInfo.cs
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\RaicesCuadratica.csproj.CoreCompileInputs.cache
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\RaicesCuadratica.dll
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\refint\RaicesCuadratica.dll
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\RaicesCuadratica.pdb
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\RaicesCuadratica.genruntimeconfig.cache
+C:\Users\diego\Ejercicios_C#\RaicesCuadratica\obj\Debug\net9.0\ref\RaicesCuadratica.dll

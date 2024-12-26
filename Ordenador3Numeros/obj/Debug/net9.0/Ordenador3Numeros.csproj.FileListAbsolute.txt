@@ -1,0 +1,14 @@
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\bin\Debug\net9.0\Ordenador3Numeros.exe
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\bin\Debug\net9.0\Ordenador3Numeros.deps.json
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\bin\Debug\net9.0\Ordenador3Numeros.runtimeconfig.json
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\bin\Debug\net9.0\Ordenador3Numeros.dll
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\bin\Debug\net9.0\Ordenador3Numeros.pdb
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\Ordenador3Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\Ordenador3Numeros.AssemblyInfoInputs.cache
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\Ordenador3Numeros.AssemblyInfo.cs
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\Ordenador3Numeros.csproj.CoreCompileInputs.cache
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\Ordenador3Numeros.dll
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\refint\Ordenador3Numeros.dll
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\Ordenador3Numeros.pdb
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\Ordenador3Numeros.genruntimeconfig.cache
+C:\Users\diego\Ejercicios_C#\Ordenador3Numeros\obj\Debug\net9.0\ref\Ordenador3Numeros.dll

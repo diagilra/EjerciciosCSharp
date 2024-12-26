@@ -1,0 +1,14 @@
+C:\Users\diego\Ejercicios_C#\ULAM\bin\Debug\net9.0\ULAM.exe
+C:\Users\diego\Ejercicios_C#\ULAM\bin\Debug\net9.0\ULAM.deps.json
+C:\Users\diego\Ejercicios_C#\ULAM\bin\Debug\net9.0\ULAM.runtimeconfig.json
+C:\Users\diego\Ejercicios_C#\ULAM\bin\Debug\net9.0\ULAM.dll
+C:\Users\diego\Ejercicios_C#\ULAM\bin\Debug\net9.0\ULAM.pdb
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ULAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ULAM.AssemblyInfoInputs.cache
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ULAM.AssemblyInfo.cs
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ULAM.csproj.CoreCompileInputs.cache
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ULAM.dll
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\refint\ULAM.dll
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ULAM.pdb
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ULAM.genruntimeconfig.cache
+C:\Users\diego\Ejercicios_C#\ULAM\obj\Debug\net9.0\ref\ULAM.dll
