@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ordenador3Numeros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c27b17dc0ab5ffb1dd23ed0ce4f1463aa102c49")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ordenador3Numeros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ordenador3Numeros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
