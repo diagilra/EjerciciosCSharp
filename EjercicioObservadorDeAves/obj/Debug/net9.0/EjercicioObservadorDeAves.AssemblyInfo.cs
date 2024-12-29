@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioObservadorDeAves")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a14cc69866c495cd1725f9b3333a951b3f0156")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa31605545489343dfc172bbffff56c9f72ab7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioObservadorDeAves")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioObservadorDeAves")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

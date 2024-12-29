@@ -1,14 +1,11 @@
-﻿using System;
-
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
-        int[] birdsPerDay = { 2, 5, 0, 7, 4, 1 };
+        int[] birdsPerDay = { 2, 5, 0, 7, 4, 1, 3, 6, 8 };
         var birdCount = new BirdCount(birdsPerDay);
 
-        Console.WriteLine("Last week: " + string.Join(", ", BirdCount.LastWeek()));
+        Console.WriteLine("Last week: " + string.Join(", ", birdCount.LastWeek()));
         Console.WriteLine("Today: " + birdCount.Today());
 
         birdCount.IncrementTodaysCount();
