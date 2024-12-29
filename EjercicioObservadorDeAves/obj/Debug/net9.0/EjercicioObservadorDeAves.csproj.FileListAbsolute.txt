@@ -1,0 +1,15 @@
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\bin\Debug\net9.0\EjercicioObservadorDeAves.exe
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\bin\Debug\net9.0\EjercicioObservadorDeAves.deps.json
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\bin\Debug\net9.0\EjercicioObservadorDeAves.runtimeconfig.json
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\bin\Debug\net9.0\EjercicioObservadorDeAves.dll
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\bin\Debug\net9.0\EjercicioObservadorDeAves.pdb
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.AssemblyInfoInputs.cache
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.AssemblyInfo.cs
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.csproj.CoreCompileInputs.cache
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.sourcelink.json
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.dll
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\refint\EjercicioObservadorDeAves.dll
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.pdb
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\EjercicioObservadorDeAves.genruntimeconfig.cache
+C:\Users\diego\Ejercicios_C#\EjercicioObservadorDeAves\obj\Debug\net9.0\ref\EjercicioObservadorDeAves.dll
